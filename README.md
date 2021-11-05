@@ -1,4 +1,4 @@
-# embedded_monitor_system
+# Embedded Monitor System
 ## Description
 This project is a monitoring system for the embedded ARM developing board [TOPEET iTOP-4412 Elite Edition](http://topeetboard.com/Product/iTOP4412-ss.html) (the board) . The system contains application for the board itself (slave) and a host computer (host)  for remote monitoring.
 
